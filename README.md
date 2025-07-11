@@ -39,7 +39,7 @@ Each problem lives in its own folder under `/problems/`, with:
 I'm Salomón Alvarez, a data analyst focused on SQL, Python, Tableau, and business problem solving. This repo is part of my larger effort to showcase skills through structured projects.
 
 - GitHub: [@salomon-alvarez](https://github.com/salomon-alvarez)
-- Website: _[coming soon]_ (replace this when ready)
+- Website: https://salomon-alvarez.github.io
 
 ---
 
