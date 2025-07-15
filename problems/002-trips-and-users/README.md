@@ -1,4 +1,4 @@
-262. Trips and Users
+262. Trips and Users.
 
 📌 LeetCode Problem: Trips and Users
 🧩 Difficulty: Hard
